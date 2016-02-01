@@ -1,0 +1,8 @@
+*.pyc
+*~
+*.[oa]
+*.*~
+build/*
+source/_static/record.txt
+build/html/record.txt
+Makefile
